@@ -14,3 +14,28 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Flutter Product Scanner App
+A Flutter application that scans product barcodes and fetches detailed product information from the OpenFoodFacts API. The app displays nutritional data, ingredients, additives, Nutri-Score, NOVA score, and more.
+
+## Features
+-Scan or enter product barcode
+
+-Fetch product details from OpenFoodFacts API
+
+-Display product name, image, and detailed nutritional info
+
+-Nutri-Score visualization with images
+
+-NOVA group processing information with images
+
+-Ingredients displayed as an ordered list
+
+-Additives and ingredient analysis information
+
+-Responsive UI with expandable sections for detailed info
+
+## Contributions
+Contributions and suggestions are welcome! Feel free to open issues or pull requests.
+
+
